@@ -55,7 +55,7 @@ export class StudentComponent implements OnInit {
     this._StudentService.addStudent(this.StudentDetail);
     this.StudentsArray = this._StudentService.getStudentList();
     this._logService.log();
-    console.log(this.StudentDetail);
+    
   };
   /* Form reset */
   resetForm(f) {
