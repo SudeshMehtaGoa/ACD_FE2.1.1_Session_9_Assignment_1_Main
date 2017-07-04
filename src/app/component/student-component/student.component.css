@@ -1,0 +1,15 @@
+/* CSS for Add Movie component */
+h1 {
+    color:white;
+    font-weight :300;
+    text-align: center;
+    margin-top:2px;
+}
+
+label {
+    color:white;
+    font-size: 24px;
+    font-weight :300;
+    margin-top: 10px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
